@@ -88,24 +88,31 @@ Because all of the images use the float:left positioning, a clearfix hack has be
 
 The use of Bootstrap components contributes to the dynamic responsiveness of each page when viewed at different sizes. Below are a few screenshots of how my portfolio behaves at diferent window sizes.
 
-### 640
-
+### Small
 #### Index
-    [alttext]
+![alt text](Assets/ScreenCaps/index-small.png)
 #### Portfolio
+![alt text](Assets/ScreenCaps/portfolio-small.png)
 #### Contact
+![alt text](Assets/ScreenCaps/contact-small.png)
 
-### 768
-
+### Medium
 #### Index
+![alt text](Assets/ScreenCaps/index-med.png)
 #### Portfolio
+![alt text](Assets/ScreenCaps/portfolio-med.png)
 #### Contact
+![alt text](Assets/ScreenCaps/contact-med.png)
 
-### 980
 
+### Large
 #### Index
+![alt text](Assets/ScreenCaps/index-large.png)
 #### Portfolio
+![alt text](Assets/ScreenCaps/portfolio-large.png)
 #### Contact
+![alt text](Assets/ScreenCaps/contact-large.png)
+
 
 
 ## Deployed Link
